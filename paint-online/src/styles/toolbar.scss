@@ -20,6 +20,15 @@
         background-size: cover;
         margin-left: 10px;
     }
+    .brush{
+        background-image: url('../assets/image/pencil-img.jpg');
+    }
+    .rect{
+        background-image: url('../assets/image/rect-toolbar.png');
+    }
+    .circle{
+        background-image: url('../assets/image/circle-toolbar.png');
+    }
 }
 
 .setting-bar {
